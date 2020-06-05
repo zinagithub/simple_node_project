@@ -4,5 +4,3 @@
 
 ### ASSIGNEMENT
 https://www.theodinproject.com/courses/nodejs/lessons/basic-informational-site?ref=lnav
-
-[![Run on Repl.it](https://repl.it/badge/github/zinagithub/simple_node_project)](https://repl.it/github/zinagithub/simple_node_project)
